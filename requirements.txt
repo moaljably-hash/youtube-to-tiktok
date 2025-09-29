@@ -1,0 +1,6 @@
+streamlit
+pytube
+moviepy
+numpy
+openai-whisper
+requests
