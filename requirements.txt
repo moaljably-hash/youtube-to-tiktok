@@ -2,7 +2,6 @@ streamlit
 pytube
 moviepy
 numpy
-openai-whisper
 requests
 imageio[ffmpeg]
 Pillow
