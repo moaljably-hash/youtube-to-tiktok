@@ -2,7 +2,5 @@ streamlit
 pytube
 moviepy
 numpy
-requests
 imageio[ffmpeg]
 Pillow
-
