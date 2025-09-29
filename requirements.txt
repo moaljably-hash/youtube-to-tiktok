@@ -5,3 +5,4 @@ numpy
 openai-whisper
 requests
 imageio[ffmpeg]
+Pillow
